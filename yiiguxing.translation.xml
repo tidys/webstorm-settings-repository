@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval must be positive" />
+      <item value="timing" />
       <item value="interval" />
       <item value="暗" />
       <item value="亮" />
