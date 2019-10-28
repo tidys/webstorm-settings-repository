@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="启动" />
+      <item value="运行" />
       <item value="右值" />
       <item value="存档" />
       <item value="finished" />
