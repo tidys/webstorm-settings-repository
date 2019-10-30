@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="diamante" />
       <item value="破碎" />
       <item value="mag" />
       <item value="反复" />
@@ -31,7 +32,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
+        <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="8" />
       </map>
     </option>
