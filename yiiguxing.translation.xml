@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="缩小" />
+      <item value="放大" />
       <item value="书签" />
       <item value="muted" />
       <item value="浏览器" />
