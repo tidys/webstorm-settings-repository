@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分析" />
       <item value="ENOENT" />
       <item value="图标" />
       <item value="配色" />
@@ -46,7 +47,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
