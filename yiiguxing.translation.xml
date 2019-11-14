@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="内容" />
+      <item value="模板" />
       <item value="自定义" />
       <item value="旁白" />
       <item value="比率" />
