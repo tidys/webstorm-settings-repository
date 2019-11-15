@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="另存为" />
+      <item value="apply to" />
+      <item value="apply by" />
+      <item value="apply with" />
+      <item value="apply" />
+      <item value="接受" />
+      <item value="应用" />
+      <item value="应用为" />
       <item value="内容" />
       <item value="模板" />
       <item value="自定义" />
@@ -43,19 +51,11 @@
       <item value="interval" />
       <item value="暗" />
       <item value="亮" />
-      <item value="计时" />
-      <item value="succeed" />
-      <item value="成功" />
-      <item value="render" />
-      <item value="browser" />
-      <item value="合作方" />
-      <item value="合作" />
-      <item value="谁" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
