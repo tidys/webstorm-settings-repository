@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
       <item value="刷子" />
       <item value="过滤" />
       <item value="流向" />
@@ -50,7 +51,6 @@
       <item value="finished" />
       <item value="完成" />
       <item value="batter" />
-      <item value="连击" />
     </histories>
     <option name="languageScores">
       <map>
