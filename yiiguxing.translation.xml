@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="复制者" />
+      <item value="复制" />
+      <item value="写轮眼" />
       <item value="禁用" />
       <item value="混淆" />
       <item value="生成" />
@@ -48,9 +51,6 @@
       <item value="片段" />
       <item value="启动" />
       <item value="运行" />
-      <item value="右值" />
-      <item value="存档" />
-      <item value="finished" />
     </histories>
     <option name="languageScores">
       <map>
