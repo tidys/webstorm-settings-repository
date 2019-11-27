@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="铺满全屏" />
+      <item value="自动适配" />
       <item value="feature/template" />
       <item value="复制者" />
       <item value="复制" />
@@ -49,13 +51,11 @@
       <item value="反复" />
       <item value="excerpt" />
       <item value="一段" />
-      <item value="片段" />
-      <item value="启动" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
